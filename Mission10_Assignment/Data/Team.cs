@@ -10,6 +10,5 @@ namespace Mission10_Assignment.Data
         public string TeamName { get; set; }
         public int CaptainID { get; set; }
 
-        public List<Bowler>Bowlers { get; set; }
     }
 }
